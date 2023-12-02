@@ -1,0 +1,12 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: sahel !important;
+}
+.display-1 {
+    font-size: 2.5rem;
+    font-weight: 200;
+    line-height: 1.5;
+}
+.feature-1 .feature-icon {
+    font-size: 2rem !important;
+    
+}
